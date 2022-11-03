@@ -41,8 +41,6 @@ client.connect(broker)
 
 min = 100
 max = 0
-moving_arr = np.zeros((100,0), dtype = int)
-
 
 if __name__ == '__main__':
     ser = get_connection("COM6")
