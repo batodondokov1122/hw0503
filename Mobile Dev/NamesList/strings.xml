@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">PeopleListK</string>
+    <string-array name="names">
+        <item>Бато</item>
+        <item>Дима</item>
+        <item>Игорь</item>
+        <item>Серегей</item>
+        <item>Михаил</item>
+        <item>Федор</item>
+        <item>Евгений</item>
+        <item>Семен</item>
+    </string-array>
+    <string-array name="lastNames">
+        <item>Дондоков</item>
+        <item>Петров</item>
+        <item>Иванов</item>
+        <item>Андреев</item>
+        <item>Гагарин</item>
+        <item>Лермонтов</item>
+        <item>Пушкин</item>
+    </string-array>
+</resources>
